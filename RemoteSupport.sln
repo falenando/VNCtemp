@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoteSupport.HostApp", "RemoteSupport.HostApp\\RemoteSupport.HostApp.csproj", "{FB98E9B3-5950-40A4-AD90-0464B970DB2B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoteSupport.ViewerLauncher", "RemoteSupport.ViewerLauncher\\RemoteSupport.ViewerLauncher.csproj", "{02472D8D-1680-4371-9903-67EB27634674}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB98E9B3-5950-40A4-AD90-0464B970DB2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB98E9B3-5950-40A4-AD90-0464B970DB2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB98E9B3-5950-40A4-AD90-0464B970DB2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB98E9B3-5950-40A4-AD90-0464B970DB2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02472D8D-1680-4371-9903-67EB27634674}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02472D8D-1680-4371-9903-67EB27634674}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02472D8D-1680-4371-9903-67EB27634674}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02472D8D-1680-4371-9903-67EB27634674}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
